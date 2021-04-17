@@ -1,0 +1,661 @@
+session,birth_year,home_location,sex,caretaker,visit_frequency
+IMQYYL,1991,Jawa Barat - Kota Depok,Laki,Orang tua,
+XHMQVM,1993,Banten - Kota Tangerang,Laki,Orang tua,lebih dari 24
+OQHPQE,1995,Jawa Timur - Kota Surabaya,Perempuan,Orang tua,12-24
+SSXYPN,1993,DKI Jakarta,Laki,Keluarga,lebih dari 24
+IGGAXC,1965,DKI Jakarta,Perempuan,Orang tua,1-2
+LMLLDP,1986,DKI Jakarta,Perempuan,Orang tua,12-24
+MHTLSE,1989,DKI Jakarta - Kota Administrasi Jakarta Selatan,Laki,,3-5
+UDIFDH,1971,Jawa Timur - Kabupaten Tulungagung,Laki,Keluarga,
+JUVFUB,1989,Jawa Barat - Kota Bogor,Perempuan,Orang tua,12-24
+XSQXFC,1989,DKI Jakarta - Kota Administrasi Jakarta Timur,Laki,Orang tua,lebih dari 24
+RSJUQA,1990,DKI Jakarta - Kota Administrasi Jakarta Pusat,Perempuan,Orang tua,12-24
+ELVBUR,1990,DKI Jakarta - Kota Administrasi Jakarta Pusat,Perempuan,Orang tua,6-12
+VKXUTL,1991,Jawa Barat - Kota Depok,Perempuan,Orang tua,12-24
+NJFWXB,1994,DKI Jakarta,Laki,Orang tua,0
+PKRAQJ,1991,Jawa Barat - Kota Depok,Laki,Orang tua,6-12
+TYQIWD,1992,Jawa Tengah - Kota Semarang,Laki,Orang tua,1-2
+FHIWYK,1984,Sulawesi Selatan - Kota Makassar,Laki,Orang tua,
+SWFEDT,1984,Sulawesi Selatan - Kota Makassar,Laki,Orang tua,3-5
+LCOEOP,1972,#NAME?,Perempuan,"Orang tua (Bengkulu)Sendiri (Klg, Bandung)",
+MPNGOZ,1968,Sumatera Barat - Kota Padang,Perempuan,Orang tua,12-24
+YSVVHS,1964,Sumatera Utara - Kabupaten Mandailing Natal,Laki,Orang tua,1-2
+KTXAPZ,1986,Jawa Barat - Kota Bekasi,Laki,Ibu,lebih dari 24
+URPLCK,1970,DKI Jakarta,Laki,Orang tua,3-5
+WXOJJO,1974,DKI Jakarta - Kota Administrasi Jakarta Timur,Perempuan,Orang tua,12-24
+USZMFP,1972,Banten - Kota Tangerang,Perempuan,Orang tua,3-5
+ULRVRU,1985,Jambi - Kota Jambi,Perempuan,Orang tua,3-5
+WDCPKT,42, ,Perempuan,Orang tua,
+QNKUEZ,34, ,Perempuan,Orang tua,
+NFZLNF,27, ,Perempuan,Orang tua,
+JEYOCX,30, ,Perempuan,Orang tua,
+JTDHGU,51, ,Perempuan,Orang tua,
+SRATZR,1976,Jawa Barat - Kabupaten Bandung,Perempuan,,
+RCOAEG,55, ,Perempuan,Orang tua,
+UZFNOY,1976,Jawa Barat - Kabupaten Bandung,Perempuan,Orang tua,12-24
+BCUYLZ,23, ,Perempuan,Orang tua,
+VEDUDK,29, ,Perempuan,Orang tua,
+GRBUMM,51, ,Perempuan,Orang tua,
+ZBHIEX,33, ,Perempuan,orang tua,
+UJXDTZ,30, ,Laki,Orang tua,
+UQZYZV,28, ,Laki,Orang tua,
+JCJCYK,53, ,Laki,Orang tua,
+UTEUTM,32, ,Perempuan,Orang tua,
+GXDGWU,30, ,Perempuan,Orang tua,
+QMWCZY,50, ,Perempuan,Orang tua,
+RQLIER,34, ,Perempuan,Orang tua,
+RKTJLL,43, ,Perempuan,Orang tua,
+HJUTUJ,1979,Jawa Barat - Kabupaten Bandung,Laki,dengan orang tua,
+KWBFEA,49, ,Laki,Orang tua,
+INOQSW,1979,DKI Jakarta - Kota Administrasi Jakarta Utara,Perempuan,orang tua dan saudara kandung,
+STDKAW,50, ,Perempuan,Orang tua,
+ALDDVS,1981,Jawa Barat - Kabupaten Bandung Barat,Perempuan,orang tua,
+NZGDOR,62, ,Perempuan,Orang tua,
+DWTZRZ,55, ,Perempuan,Orang tua,
+ZLYHLS,48, ,Perempuan,Orang tua,
+YXVBXI,62, ,Perempuan,Orang tua,
+QMRKUR,60, ,Perempuan,Orang tua,
+BMDKPY,1971, ,Laki,,
+DTDVUS,1991,Jawa Tengah - Kota Semarang,Perempuan,orang tua,
+WYNGZC,1972,Jawa Barat - Kota Bandung,Perempuan,orang tua,
+BOAXJQ,1993,Jawa Barat - Kabupaten Bekasi,Laki,orang tua saya,lebih dari 24
+ZKCOUE,60, ,Perempuan,Orang tua,
+MZTYGG,41, ,Laki,Orang tua,
+MORHAA,52, ,Perempuan,Orang tua,
+LBEIIM,1985,DKI Jakarta - Kota Administrasi Jakarta Utara,Perempuan,orangtua,
+CDDPXQ,1991,DKI Jakarta - Kota Administrasi Jakarta Selatan,Perempuan,orang tua,
+RFOTJC,1989,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,orangtua,lebih dari 24
+RCJNKH,1990,Jawa Tengah - Kabupaten Semarang,Perempuan,Orang tua dan kakak perempuan,1-2
+CMLUZC,1990,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,orang tua,1-2
+OKXYRY,1995,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,Orangtua,6-12
+DVSIWS,1990,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,Orang tua,
+VUZLIN,1979,Nusa Tenggara Timur - Kabupaten Ende,Laki,orang tua dan saudara saya,1-2
+AJKTRY,1976,Sumatera Utara - Kota Medan,Perempuan,orangtua,
+EEQRRI,1976,DKI Jakarta - Kota Administrasi Jakarta Barat,Laki,Orang tua dan adik,
+LTPQOE,0,Aceh - Kabupaten Aceh Barat,Laki,hsthtrjhrdtjdrtjytdj,
+YKELNM,1975,DKI Jakarta - Kota Administrasi Jakarta Selatan,Perempuan,Orang tua,1-2
+KOIFPS,1989,Banten - Kabupaten Tangerang,Perempuan,Orang Tua,0
+JNZKWY,1986,Aceh - Kabupaten Aceh Timur,Laki,,0
+WIYLSJ,1987,Sumatera Utara - Kota Medan,Laki,keluarga,1-2
+YCINJS,1989,Jawa Barat - Depok,Perempuan,Orang tua dan adik kandung,1-2
+XTDJGS,1989,DKI Jakarta - Kota Administrasi Jakarta Utara,Perempuan,Orang tua,
+QYXXTS,1982,Jawa Barat - Kota Bandung,Perempuan,,
+IQVJFG,1978,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,orang tua kandung,
+ERWQNV,1974,Jawa Barat - Kabupaten Sukabumi,Perempuan,"orangtua, kakak, adik",1-2
+GZWPKN,1980,DKI Jakarta - Kota Administrasi Jakarta Selatan,Perempuan,orang tua,
+KAWLNM,1986,Jawa Barat - Kota Bogor,Perempuan,Orang tua.,1-2
+SXOPFX,1971,Jawa Barat - Kota Bandung,Laki,saya tumbuh dan besar bersama kedua orang tua dan empat orang kakak,lebih dari 24
+CJSYRU,, ,,,
+SWFRGI,1987,Jawa Barat - Kabupaten Garut,Laki,Keluarga,
+KTIWMA,1981,Jawa Tengah - Kota Surakarta,Laki,orang tua,6-12
+LLCJRR,1991,Banten - Kota Tangerang,Laki,Orangtua,
+ITIHHY,1987,Jawa Timur - Kabupaten Nganjuk,Perempuan,Orangtua,
+UXWZPO,1982,Jambi - Kota Jambi,Laki,Dengan kakak dan adik.,
+LZKTRI,1988,Jawa Barat - Kota Bekasi,Perempuan,Nenek,3-5
+CQYTJQ,1969,Nusa Tenggara Timur - Kabupaten Belu,Perempuan,orang tua,
+UYEYYD,1984,Nusa Tenggara Timur - Kabupaten Alor,Laki,Orangtua,
+QTJBLB,1959,Jawa Timur - Kabupaten Kediri,Perempuan,Orangtua,1-2
+IGXXXZ,1984,Nusa Tenggara Timur - Kabupaten Alor,Laki,Orangtua,lebih dari 24
+OSZPHF,1978,Jawa Barat - Kota Bogor,Perempuan,Ayah dan Ibu,
+KGMDTY,, ,,,
+VNCRNX,1992,DKI Jakarta - Kota Administrasi Jakarta Timur,Laki,Orang tua dan saudara kandung,
+MFQDRS,,Jambi - Kota Jambi,Perempuan,Orang tua,3-5
+NUOLXJ,1990,#NAME?,Laki,Orang tua,
+OHMNAN,1994,Jambi - Kota Jambi,Perempuan,Orang tua,lebih dari 24
+BPTQVJ,1993,Jambi - Kabupaten Muaro Jambi,Perempuan,Orang tua,3-5
+YOTKIH,1995,Jambi - Kabupaten Sarolangun,Perempuan,saudara/kakak,6-12
+HAVUGI,1995,Jambi,Perempuan,Orangtua,3-5
+JROEGM,1995,Jambi,Perempuan,Mama angkat,12-24
+JZRBIK,1995,Jambi - Kabupaten Tanjung Jabung Timur,Perempuan,Orang tua,lebih dari 24
+FDPGUQ,1994,Jambi - Kota Jambi,Perempuan,Orang tua,6-12
+LMMWRS,1995,Jambi - Kabupaten Tebo,Perempuan,Orangtua,lebih dari 24
+PQAXZC,1994,Jambi - Muara Bungo,Perempuan,Orangtua,
+BIJMRG,1995,Jambi - Kabupaten Batanghari,Perempuan,Orangtua,6-12
+FVIJIF,1995,Jambi - Kabupaten Bungo,Perempuan,Orang tua,lebih dari 24
+OAPIRD,1992,Jambi - Kabupaten Muaro Jambi,Perempuan,Orang tua,1-2
+LLJJJJ,1995,Jambi - Kota Jambi,Perempuan,Orangtua,3-5
+UQBWIX,1995,Jambi - Kotamadya,Perempuan,Orangtua,3-5
+NCLKNJ,1994,Jambi - Tungkai Ulu,Laki,Orang tua,1-2
+RXGDAA,1995,Jambi - Kabupaten Tebo,Laki,Orang tua dan kakak,12-24
+KHCHVT,1991,DKI Jakarta - Jakarta,Perempuan,Orangtua,1-2
+KLEUSP,1996,Bali - Kabupaten Jembrana,Perempuan,Orang tua,3-5
+IWRKHC,1995,Bali - Kabupaten Karangasem,Perempuan,Orang tua,6-12
+GFHMOB,1995,Bali - Kabupaten Bangli,Perempuan,Keluarga,12-24
+JCCHKW,1994,Bali - Kabupaten Buleleng,Perempuan,Orang tua,3-5
+UEYAQP,1995,Bali - Kabupaten Buleleng,Perempuan,Orang tua,lebih dari 24
+FHATZW,1995,"Bali - Peliatan, Ubud",Perempuan,Orang tua,lebih dari 24
+UMLXMC,1994,Bali - Kabupaten Buleleng,Perempuan,Orang tua,lebih dari 24
+PUGNWG,1995,Bali - Kabupaten Tabanan,Perempuan,Orang Tua,6-12
+UPYPND,1995, Bali - Kabupaten Tabanan,Laki,orang tua,6-12
+VPDKYA,1994,Bali - Kabupaten Tabanan,Perempuan,Kedua ortu,3-5
+UUSXXV,1995,Bali - Kabupaten Buleleng,Laki,Orang tua,lebih dari 24
+FDNWAB,1995,Bali - Kabupaten Buleleng,Perempuan,Orangtua,lebih dari 24
+QLVQCI,1994, Bali - Kabupaten Klungkung,Perempuan,Orangtua,3-5
+BCNQJA,1995,Bali - Kabupaten Bangli,Perempuan,Orang tua,lebih dari 24
+USFHIC,1995,Bali - Kabupaten Bangli,Perempuan,Orang tua,12-24
+YMZVRF,1995,Bali - Kabupaten Bangli,Laki,Kedua orang tua,3-5
+KZYUKO,1994,Bali - Kabupaten Jembrana,Laki,orang tua,1-2
+SLYEAX,1995,Bali - Kabupaten Bangli,Laki,,3-5
+IQVDTT,1995,Bali - Kabupaten Badung,Perempuan,orang tua,3-5
+RIHFNT,1995, Bali - Kabupaten Badung,Laki,Orang tua,
+GJGENE,1994,Bali - Kabupaten Karangasem,Perempuan,Orang Tua,lebih dari 24
+EBKRLJ,1995,Bali - Singaraja,Perempuan,Orang tua,lebih dari 24
+YCTHWR,,Bali - Negara,Laki,orang tua,3-5
+MJRPFX,1995,Bali - SINGARAJA,Perempuan,ORANG TUA,lebih dari 24
+BEDUCF,1995,Bali - Kabupaten Buleleng,Laki,ORANG TUA,lebih dari 24
+AYSGGI,1995,Bali - Kabupaten Buleleng,Perempuan,ORANG TUA,3-5
+YMPHSK,194,Bali - Kabupaten Buleleng,Perempuan,ORANG TUA DAN KAKEK NENEK,3-5
+ATSRZH,1995,Bali - Kabupaten Gianyar,Laki,ORANG TUA,12-24
+TTNETP,1977,Maluku Utara - Kota Ternate,Perempuan,Orang Tua,6-12
+QVTVEC,1987, Maluku Utara - Kota Ternate,Laki,Orang tua,3-5
+KGKWOU,1964,Maluku Utara - Makyan,Laki,Keluarga,3-5
+XQJVFM,1981,Maluku Utara - Kota Ternate,Perempuan,Orang tua,lebih dari 24
+TWGBKI,1976,Maluku Utara - Kota Ternate,Perempuan,Orang tua,6-12
+QDBURI,1984,Maluku Utara - Kabupaten Kepulauan Sula,Perempuan,Kedua orang tua,lebih dari 24
+ICZSAT,1967,Maluku Utara - Kota Ternate,Perempuan,orang tua,lebih dari 24
+MPHUZB,1969,Maluku Utara - Kota Ternate,Perempuan,Orang Tua,lebih dari 24
+UUOJCF,1983,Sulawesi Selatan - Kabupaten Bone,Laki,Orang tua,1-2
+YRRILZ,1977,Maluku Utara - Kabupaten Halmahera Selatan,Laki,Orang Tua,3-5
+EBJMFW,,Maluku Utara - Kota Ternate,Perempuan,Orang tua,lebih dari 24
+HLHEUG,1976,Maluku Utara - Kabupaten Halmahera Tengah,Laki,Orang tua,
+QTIEFL,1978,Maluku Utara - Kao,Laki,Orang Tua,lebih dari 24
+KSUXCX,1993,"Riau - Pangean, Teluk Kuantan",Perempuan,Orang tua,3-5
+REJDJW,1993,Sumatera Barat - Kabupaten Pasaman Barat,Perempuan,Orang Tua,3-5
+XMBCVS,1995,Riau - Kota Pekanbaru,Perempuan,Orang tua,3-5
+QNHJIN,1990,Sumatera Barat - Kota Bukittinggi,Perempuan,Orang Tua,3-5
+KIIACP,1991,Sumatera Barat - Kabupaten Pasaman,Perempuan,Orang tua,
+ODWQDU,1991,Sumatera Barat - Batusangkar,Perempuan,Orang tua,3-5
+OJWPAL,1991,Sumatera Barat - Padang Pariaman,Perempuan,Nenek,3-5
+JQFEMZ,1992,Sumatera Barat - Tapus,Perempuan,Orang Tua,lebih dari 24
+LMLIVO,1993,Sumatera Barat - Kabupaten Dharmasraya,Perempuan,Orang Tua,12-24
+WCCYOO,1992,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,Orang Tua,lebih dari 24
+UAADSB,1995,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,Nenek,3-5
+ZPAJSB,1994,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,Orang tua,lebih dari 24
+GYLSDY,1992,Sumatera Barat - Kabupaten Pasaman,Perempuan,Orang tua,3-5
+IESDQR,1993,Sumatera Utara - Sayurmatinggi,Perempuan,Orang Tua,6-12
+CQJPQF,1995, Sumatera Barat - Kabupaten Pasaman,Perempuan,Orang tua,
+DJYVAB,1991,Sumatera Barat - Inderapura,Perempuan,Orang Tua,3-5
+GWPLFD,1995,Sumatera Barat - Kabupaten Dharmasraya,Perempuan,Orang Tua,
+RQATYV,1992,Sumatera Barat - Kota Pariaman,Perempuan,Orang Tua,3-5
+VVPKIL,1992,Sumatera Barat - Kabupaten Padang Pariaman,Laki,Orang Tua,0
+USOCPL,1994,Sumatera Barat - Kabupaten Agam,Laki,Orang Tua,1-2
+JUKHRP,1991,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,Orang tua ,6-12
+LSPQGV,1992,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,Orang tua,lebih dari 24
+EMGSNV,1995,Sumatera Barat - Kabupaten Solok,Perempuan,orang tua,3-5
+ARXKHK,1993,Sumatera Barat - Kabupaten Pasaman,Laki,Bersama kedua Ortu,1-2
+XDOXBH,1995,Sumatera Utara - Kota Medan,Laki,Orang Tua,1-2
+PKHFHR,1996,Jambi - Muara Bungo,Laki,Orang tua,3-5
+KGNATI,1995,Sumatera Barat - Kota Pariaman,Laki,Orang tua,lebih dari 24
+XKTNYZ,1992,Riau - Kota Pekanbaru,Laki,Orang Tua,6-12
+MEEENQ,0,Bali - Kabupaten Buleleng,Laki,Orang tua,
+HBKRGL,1994,Jambi - Tungkal Ulu,Laki,Orang Tua,1-2
+NPIDEY,1995,Bali - Kota Denpasar,Laki,ORANG TUA,
+CLJUNW,1995,Jawa Timur - Kabupaten Tulungagung,Perempuan,ORANG TUA,lebih dari 24
+AKGZSI,1995,Sumatera Barat - Kota Bukittinggi,Laki,Orang Tua,lebih dari 24
+ADSYIB,1995,DKI Jakarta - JAKARTA,Laki,ORANG TUA,6-12
+KURNFR,1996,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,ORANG TUA,lebih dari 24
+GDDWCU,1994,Sumatera Barat - Kota Bukittinggi,Laki,orang tua,3-5
+EAZZLU,1995,Sumatera Barat - Kota Padang,Laki,ORANG TUA,0
+XCATUK,1995,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,Orang tua,1-2
+LDHYOT,1994,Sumatera Barat - Kota Payakumbuh,Perempuan,Orang tua,lebih dari 24
+IFGMJN,1995, Sumatera Barat - Kabupaten Dharmasraya,Laki,Orang tua,1-2
+GZHAOD,1995,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,Orang tua,1-2
+VFERUG,1995,Riau,Perempuan,orang tua,1-2
+SHFBVK,1994,Sumatera Barat - Kabupaten Solok Selatan,Laki,Kedua Orang Tua,3-5
+LITLMQ,1993,Sumatera Barat - Kota Padang,Perempuan,Orang Tua,lebih dari 24
+NAQDUW,1995,Sumatera Barat - Kabupaten Solok Selatan,Perempuan,Ayah dan ibu,lebih dari 24
+KODTBY,1994,Sumatera Barat - Kabupaten Solok Selatan,Perempuan,ORANG TUA,lebih dari 24
+GBWUZM,1994,Sumatera Barat - Kabupaten Pasaman Barat,Perempuan,orang tua,lebih dari 24
+QTXERB,1995,Jambi - Kabupaten Tebo,Perempuan,Orang Tua dan adik (keluarga),3-5
+TKQOHS,1995,Sumatera Barat - Kota Padang,Laki,Orang Tua Kandung,lebih dari 24
+IVQOXZ,1990,Sumatera Barat - Kota Pariaman,Perempuan,"Nenek (Almh), Kakak laki-laki",3-5
+CHTHDH,1995,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,Orang Tua,
+SYTEIT,1994,Sumatera Selatan - Kabupaten Empat Lawang,Perempuan,ORANG TUA,3-5
+WELVSB,1992,Sumatera Barat - Kabupaten Dharmasraya,Perempuan,Orang Tua,lebih dari 24
+YVQCDB,1992,#NAME?,Perempuan,Orang tua,
+UUHOYH,1992,Sumatera Barat - Kabupaten Padang Pariaman,Perempuan,ORANG TUA,
+XFFCXC,1994,Jambi - Kabupaten Sarolangun,Perempuan,ORANG TUA,
+XQZVOH,1995,Sumatera Barat - Kota Padang,Perempuan,ORANG TUA,12-24
+BRSSCM,1995,Bengkulu - Kabupaten Bengkulu Selatan,Perempuan,Orang tua,3-5
+ETJBWR,1994,Sumatera Barat - Kota Pariaman,Perempuan,Orang tua,lebih dari 24
+BOANDK,1995,Sumatera Barat - Kotamadya,Perempuan,Ke-2 orang Tua,6-12
+GMONND,1995,"Sumatera Barat - Solok, Kota Padang",Perempuan,Orang Tua kandung,3-5
+UTVDVK,1991,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,Orang tua,6-12
+XKTKIK,1984,Sumatera Barat - Kabupaten Dharmasraya,Laki,Ortu,
+CFQWCX,1995,Sumatera Barat - Kota Padang,Perempuan,Orang tua,3-5
+DRVHTU,1994,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,Orang tua,6-12
+KRQEII,1994,Riau - Kabupaten Rokan Hulu,Perempuan,Orang tua,3-5
+EBFPVB,1995,Sumatera Barat - Kota Padang,Laki,Umi,0
+QLCMKJ,1995, Sumatera Barat - Kota Padang,Perempuan,Orang tua,3-5
+CFETEU,1992,Sumatera Barat - Kabupaten Pasaman,Perempuan,keluarga,3-5
+VDLBPO,1995,Sumatera Barat - Kota Padang,Perempuan,Orang Tua,1-2
+XDXKJA,1995,Sumatera Barat - Kota Padang,Perempuan,Dengan kedua orang tua,lebih dari 24
+PPNXFA,1995,Sumatera Barat - Kota Padang,Perempuan,Orang tua,12-24
+YGTWJH,1995,Sumatera Barat - Kabupaten Pesisir Selatan,Perempuan,ORAANG TUA,3-5
+KQZWOF,1994,Sumatera Barat - Kota Padang,Perempuan,ORANG TUA,1-2
+FWWZLK,1993,Sumatera Barat - Pesaman Timur,Laki,orang tua,3-5
+YORVZW,1995,Sumatera Barat - Kabupaten Pesisir Selatan,PerempuanLaki,Orang tua,3-5
+KKJOPE,1993,Sumatera Barat - Kabupaten Pasaman,Laki,ORANG TUA,6-12
+KAJRYK,1992,Sumatera Barat - Kota Padang,Laki,ORTU,1-2
+CWKVYV,1995,#NAME?,Perempuan,ORANG TUA,
+PNUGRE,1994,Sumatera Utara - Kota Padangsidempuan,Perempuan,ORANG TUA,3-5
+XUFFWQ,1990,Sumatera Barat - Kabupaten Kepulauan Mentawai,Laki,ORANG TUA,1-2
+VNFFKF,1993,Sumatera Barat - Kabupaten Pasaman,Perempuan,ORANG TUA,3-5
+UIESRL,1996,Sumatera Barat - Kabupaten Dharmasraya,Perempuan,ORANG TUA,6-12
+WWTSXS,1992,Sumatera Barat - Kota Padang,Laki,ORANG TUA,3-5
+KQTPYF,1992,Kepulauan Riau - Kota Batam,Perempuan,,
+LYAANE,1965,DKI Jakarta - Kota Administrasi Jakarta Selatan,Perempuan,Orangtua,
+OXFAYD,1989,DKI Jakarta - Kota Administrasi Jakarta Timur,Laki,Orang tua,
+YUVJFM,1992,DKI Jakarta - Kota Administrasi Jakarta Pusat,Laki,"Ayah, Ibu, Kakak Pria",
+BBTYBO,1990,Lampung - Kota Bandar Lampung,Perempuan,orangtua,3-5
+AVZKCC,1992,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,12-24
+XKIHPY,1992,Sumatera Utara - Kecamatan Kabanjahe,Perempuan,Orangtua,1-2
+CBCMWQ,1993,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,3-5
+JDQTBJ,1993,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+CAXGPH,1993,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,6-12
+KEUCGG,1993,Lampung - Kabupaten Lampung Tengah,Laki,Orangtua,3-5
+MMPPAP,1991,Lampung - Kota Bandar Lampung,Laki,Orangtua,12-24
+RUFESW,1992,Lampung - Kota Bandar Lampung,Laki,Orangtua,6-12
+VUGOSA,1989,Lampung - Kabupaten Pringsewu,Laki,Orangtua,lebih dari 24
+MSQFWY,1992,Lampung - Kota Bandar Lampung,Laki,Orangtua,lebih dari 24
+XTIMDQ,1992,Lampung - Kabupaten Lampung Tengah,Perempuan,Ayah dan Ibu,lebih dari 24
+YUGMEF,1989,Lampung - Kabupaten Lampung Timur,Laki,Orangua,lebih dari 24
+OOXZZQ,1993,Lampung - Kabupaten Lampung Timur,Perempuan,Orangtua,lebih dari 24
+TSFCQY,1995,Lampung - Kota Bandar Lampung,Perempuan,Keluarga,lebih dari 24
+LVILJS,1995,Lampung - Kota Bandar Lampung,Laki,Keluarga,3-5
+AMSUJT,1995,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+GHIIWL,1995,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+HDCXUC,1995,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,12-24
+EOSWCR,1995,Lampung - Kota Bandar Lampung,Perempuan,Rumah (Keluarga),
+CKKJRZ,1996,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,0
+OIBRKW,1995,Lampung - Kota Bandar Lampung,Perempuan,Suami,6-12
+WDUOIW,1995,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+SESMAM,1995,Lampung - Kota Bandar Lampung,Perempuan,Dirumah / Keluarga,lebih dari 24
+JSPMIT,1993,Lampung - Kota Bandar Lampung,Laki,Orangtua,lebih dari 24
+NALWBA,1993,Lampung - Kabupaten Tulang Bawang,Laki,Orangtua,12-24
+FORUQB,1993,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+HMBSHZ,1991,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+XURLMO,1991,Lampung - Kota Bandar Lampung,Laki,Ayah,lebih dari 24
+EKLPBU,1993,Lampung - Kota Metro,Laki,Orangtua,6-12
+NLMVVG,1994,Lampung - Kabupaten Lampung Barat,Laki,Orangtua,lebih dari 24
+IGVSHH,1992,DKI Jakarta - Kota Administrasi Jakarta Selatan,Laki,Orangtua,3-5
+IYNTTE,1994,Lampung - Kabupaten Tanggamus,Laki,Orangtua,
+AWLIAH,1993,Lampung - Kota Bandar Lampung,Laki,Orangtua,lebih dari 24
+BEOISF,1993,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+DZCYSS,1992,Sumatera Utara - Kabupaten Tapanuli Utara,Perempuan,Orangtua,
+ECFWSM,1992,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,1-2
+CTDXXW,1992,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,1-2
+BDSKQC,1991,Lampung - Kota Bandar Lampung,Laki,Orangtua,12-24
+OLFQZB,1992,Lampung - Kabupaten Tanggamus,Laki,Orangtua,lebih dari 24
+IASMGK,1992,Lampung - Kota Bandar Lampung,Laki,"Ayah, Ibu",12-24
+ZQQAQY,1992,Lampung - Way Jepara,Perempuan,"Nenek, orangtua",lebih dari 24
+VQEMPX,1990,Lampung - Kota Bandar Lampung,Laki,Orangtua,3-5
+FJJMKH,1992,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,3-5
+MUILUC,1994,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,6-12
+ZKOQBQ,1994,Lampung - Kota Bandar Lampung,Laki,Orangtua,lebih dari 24
+IQMYDF,1994,Lampung - Kecamatan Natar,Perempuan,Orangtua,3-5
+NJDMHY,1994,Lampung - Kabupaten Lampung Selatan,Laki,Orangtua,3-5
+RRTDVR,1994,Lampung - Kota Bandar Lampung,Perempuan,Parents,1-2
+GEEESM,1994,Lampung - Kota Kota Bumi,Laki,Orangtua,3-5
+IYZRYB,1994,Lampung - Kabupaten Pringsewu,Perempuan,Orangtua,3-5
+IFYWQY,1995,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,lebih dari 24
+MHWDRI,1995,Lampung - Kabupaten Pesawaran,Perempuan,Sendiri/ Ngekost,6-12
+XMOZZV,1994,Sumatera Selatan - Kota Palembang,Perempuan,Orangtua,1-2
+OXFVYK,1995,Gorontalo - Kabupaten Gorontalo,Perempuan,Ayah dan Ibu,1-2
+YKFIJB,1994,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,12-24
+EEBSVX,1994,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,6-12
+YJEHOS,1994,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,Orangtua,lebih dari 24
+UQMIBG,1987,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,3-5
+GDSGSC,1994,Lampung - Kota Bandar Lampung,Perempuan,Orangtua,1-2
+IKKKRA,1994,Jawa Timur - Lamongan,Laki,"Orang tua, Keluarga",6-12
+RLQHZP,1996,Jawa Timur - Kabupaten Trenggalek,Perempuan,Orang tua,6-12
+NISCSP,1996,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,keluarga,lebih dari 24
+OYLTSE,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,orang tua,3-5
+EERWKX,1996,Jawa Timur - Kabupaten Bojonegoro,Perempuan,orang tua,lebih dari 24
+SKIOUU,1995,Daerah Istimewa Yogyakarta - Kabupaten Gunung Kidul,Perempuan,orang tua,1-2
+UKORNV,1996,Daerah Istimewa Yogyakarta - Kota Yogyakarta,Perempuan,"bapak, ibu, saudara",6-12
+WDPEMB,1996,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,tiyang sepuh,lebih dari 24
+VALRMT,1996,Jawa Timur - Kabupaten Ponorogo,Laki,bapak,lebih dari 24
+HMKWVL,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Laki,ayah dan ibu,lebih dari 24
+GOKDTI,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Laki,Orangtua,lebih dari 24
+ADRRSG,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orangtua,3-5
+QZIQZC,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orangtua,6-12
+QVSPZS,1996,Jawa Timur - Kota Malang,Perempuan,Orangtua,6-12
+VGGKTU,1995,Jawa Tengah - Kabupaten Tegal,Laki,Ibu dan kakek,3-5
+GMAXRS,1993,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,Orangtua,lebih dari 24
+INUYJK,1997,Jawa Tengah - Kabupaten Magelang,Perempuan,Keluarga,lebih dari 24
+MTENQV,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Tiyang sepuh,lebih dari 24
+NXYPBQ,1995,Jawa Tengah - Kabupaten Klaten,Perempuan,Orangtua,lebih dari 24
+ZZKTCZ,1996,DKI Jakarta - Kota Administrasi Jakarta Barat,Perempuan,Orangtua,lebih dari 24
+YTDBDU,1996,Jawa Tengah - Kabupaten Pati,Perempuan,Kedua orangtua,3-5
+JDDXUO,1996,Jawa Timur - Kabupaten Mojokerto,Laki,Orangtua,6-12
+UHDAQT,1993,Daerah Istimewa Yogyakarta - Kota Yogyakarta,Perempuan,Orangtua,1-2
+DZEDBE,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Laki,"Orangtua, saudara",lebih dari 24
+ZKWTSG,1996,Jawa Timur - Kabupaten Magetan,Perempuan,Orangtua,
+XOWFPW,1996,Jawa Timur - Kabupaten Tulungagung,Perempuan,Orangtua,6-12
+PMOEHJ,1995,Jawa Tengah - Kabupaten Temanggung,Perempuan,"Ibu, adik, nenek",lebih dari 24
+GPZTZJ,1996,Daerah Istimewa Yogyakarta - Kota Yogyakarta,Perempuan,Asrama,3-5
+GBOHVG,1995,Jawa Tengah - Kabupaten Klaten,Perempuan,"Ayah, ibu, adik",6-12
+QBLACZ,1995,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang tua,lebih dari 24
+BNIIYW,1994,"Nusa Tenggara Timur - Malaka, Belu",Perempuan,orang tua,
+VLQVAV,1994,Nusa Tenggara Timur - Kabupaten Kupang,Perempuan,Orang tua,lebih dari 24
+AZVAIS,1994,Nusa Tenggara Timur - Atambua,Laki,Orang tua,1-2
+OUENNT,1993,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang tua,lebih dari 24
+KUBWSI,1996,Nusa Tenggara Timur - Kabupaten Sabu Raijua,Laki,Orang tua,
+SCBUPR,1993,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang Tua,3-5
+BECHNX,1995,Nusa Tenggara Timur,Perempuan,Orang tua,lebih dari 24
+KXREOV,1992,Nusa Tenggara Timur - Kota Kupang,Laki,Orang Tua,6-12
+IMQYOH,1996,Nusa Tenggara Timur - Kabupaten Malaka,Perempuan,Orang Tua,
+SIHTYQ,1996,Nusa Tenggara Timur - Kabupaten Manggarai Barat,Laki,Orang tua,1-2
+TUCRBN,1996,Nusa Tenggara Timur - Flores,Laki,Orang tua,1-2
+XUEONG,1993,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang tua,
+EFKQMV,1996,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang Tua,lebih dari 24
+ZRJESV,1997,Nusa Tenggara Timur - Kabupaten Sabu Raijua,Perempuan,Orang tua,1-2
+PKYZPA,1994,Nusa Tenggara Timur - Kabupaten Flores Timur,Laki,Orangtua,1-2
+ROJJZF,1995,Nusa Tenggara Timur - Kota Kupang,Laki,Orangtua,lebih dari 24
+QMWFRN,1994,Nusa Tenggara Timur - Kota Kupang,Laki,Ayah dan ibu,lebih dari 24
+GBYGSU,1993,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orangtua,6-12
+ZXSGOS,1995,Nusa Tenggara Timur - Kabupaten Lembata,Perempuan,Orangtua,3-5
+NPBGVR,1996,Nusa Tenggara Timur - Kabupaten Timor Tengah Selatan,Perempuan,Orangtua,6-12
+HKQLYS,1993,Nusa Tenggara Timur - Kota Kupang,Laki,Orangtua,1-2
+AQPGJM,1995,Nusa Tenggara Timur - Kabupaten Sabu Raijua,Perempuan,Kakak kandung,lebih dari 24
+SWIKYB,1996,Nusa Tenggara Timur - Kabupaten Rote Ndao,Laki,Orangtua,
+NHVYQW,1995,Nusa Tenggara Timur - Kabupaten Sabu Raijua,Perempuan,Orangtua,3-5
+RFDMKC,1996,Nusa Tenggara Timur - Kota Kupang,Laki,Orangtua,lebih dari 24
+XLJJIA,1995,Nusa Tenggara Timur,Laki,Orangtua,3-5
+MQAZOB,1995,Nusa Tenggara Timur - Kota Kupang,Laki,Wali,3-5
+ZKDNCS,1995,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orangtua,6-12
+DARQDF,1993,Nusa Tenggara Timur - Kabupaten Malaka,Perempuan,"Bapak, Mama",1-2
+QZWAPL,1995,Nusa Tenggara Timur - Atambua,Laki,Orangtua,1-2
+RQOPFD,1996,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+CLQKAP,1995,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,Orangtua,lebih dari 24
+XUBKXA,1995,Jawa Tengah - Kabupaten Kebumen,Laki,"Ayah, ibu",lebih dari 24
+HLTAHJ,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orangtua,lebih dari 24
+YKDHWS,1996,#NAME?,Perempuan,Orangtua,
+FRHLNG,1995,Sumatera Selatan - Kabupaten Musi Rawas,Perempuan,Orangtua,lebih dari 24
+BCDAYW,1995,Jawa Tengah - Kabupaten Magelang,Perempuan,Orangtua,
+MZAIRA,1996,Lampung - Kabupaten Pesawaran,Laki,"Wali, Paman",3-5
+VUHHGW,1996,Sulawesi Barat - Kabupaten Polewali Mandar,Laki,"Orangtua, keluarga",lebih dari 24
+IYVJWO,1995,Banten - Kabupaten Serang,Laki,Orangtua,1-2
+UTETFU,1996,Daerah Istimewa Yogyakarta - Kota Yogyakarta,Laki,Orangtua,3-5
+VAAAVH,1996,Jawa Barat - Kabupaten Karawang,Laki,"Bapak, Ibu",1-2
+MJGKUZ,1996,Jawa Tengah - Kabupaten Cilacap,Perempuan,Orangtua,3-5
+ZFZNZZ,1996,Kepulauan Bangka Belitung - Kabupaten Belitung,Perempuan,Orangtua,lebih dari 24
+TYNWXL,1996,Jawa Tengah - Kabupaten Sragen,Perempuan,Orangtua,lebih dari 24
+SWLBNJ,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orangtua,
+BJLVXY,1995,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,Orangtua,lebih dari 24
+PYLALB,1998,Jawa Tengah - Kabupaten Jepara,Perempuan,Orangtua saya,3-5
+BFREAP,1996,Jawa Tengah - Kabupaten Kebumen,Perempuan,Orangtua,1-2
+APCMGO,1997,Jawa Tengah - Kabupaten Tegal,Perempuan,Orangtua,1-2
+PZHFDY,1996,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,Orangtua,
+ZUWAIS,1995,Jawa Tengah - Kabupaten Temanggung,Perempuan,Orangtua,lebih dari 24
+XCSIXI,1997,Sumatera Utara - Kota Medan,Perempuan,Orangtua,1-2
+OOVPZC,1996,Kalimantan Tengah - Kabupaten Kotawaringin Timur,Perempuan,Orangtua,
+GOWZBP,1996,Jawa Tengah - Kabupaten Magelang,Laki,orangtua,lebih dari 24
+GYROZG,1996,Jawa Timur - Kabupaten Pacitan,Laki,Orangtua,1-2
+KCBYKL,1995,Daerah Istimewa Yogyakarta - Kota Yogyakarta,Laki,orang tua,3-5
+GAKLXB,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orang Tua,lebih dari 24
+QUIVQY,1995,Daerah Istimewa Yogyakarta - Kabupaten Bantul,Perempuan,Orang Tua,12-24
+UMOJTS,1996,Jawa Timur - Kabupaten Ngawi,Perempuan,Orang Tua,lebih dari 24
+VHQYOU,1995,Daerah Istimewa Yogyakarta - Kabupaten Sleman,Perempuan,Orang Tua,6-12
+DKPJYP,1995,Jawa Tengah - Kabupaten Banyumas,Perempuan,Orang Tua,1-2
+HOGQOJ,1994,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,
+LWRUWA,1994,Jawa Timur - Kabupaten Jombang,Perempuan,Orangtua,3-5
+IWLMNX,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Keluarga,12-24
+SYUQOI,1993,Jawa Timur - Kota Blitar,Perempuan,"Ibu, bapak",6-12
+SZIVDA,1994,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,lebih dari 24
+NRAETB,1995,Jawa Timur - Kota Surabaya,Perempuan,Orangtua,lebih dari 24
+JZEFLR,1992,Jawa Timur - Kota Malang,Perempuan,"Ibu, Ayah, adik",lebih dari 24
+BTUMXS,1995,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,3-5
+GSKASE,1994,Jawa Timur - Kota Blitar,Perempuan,Orangtua,lebih dari 24
+TPNDZS,1994,Jawa Timur - Kabupaten Ponorogo,Perempuan,Orangtua,12-24
+LEGKRG,1994,Jawa Timur - Kabupaten Bojonegoro,Perempuan,Orangtua,6-12
+RREPQM,1994,Jawa Timur - Kabupaten Sampang,Perempuan,Orangtua,lebih dari 24
+NANVPZ,1994,Jawa Timur - Kabupaten Pamekasan,Perempuan,Orangtua,1-2
+HBFZVU,1994,Jawa Timur - Kota Surabaya,Perempuan,Orangtua,3-5
+ZRBFLG,1995,Jawa Timur - Kota Surabaya,Perempuan,Orangtua,lebih dari 24
+ZBXAZH,1995,Jawa Timur - Kota Pasuruan,Perempuan,Orangtua,lebih dari 24
+RPTPRL,1994,Jawa Timur - Kabupaten Pamekasan,Perempuan,Orangtua,
+WEUNBE,1993,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,3-5
+EORYKP,1995,Lampung - Kabupaten Lampung Timur,Laki,Orangtua,1-2
+UHVLMF,1993,Jawa Timur - Kabupaten Malang,Laki,Orangtua,lebih dari 24
+ISGOTR,1994,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,3-5
+GNCASV,1994,Jawa Timur - Kabupaten Lamongan,Perempuan,Orang tua ,3-5
+IOPCGS,1994,Jawa Timur - Kota Blitar,Perempuan,Orangtua,3-5
+OAMUDD,1994,Jawa Timur - Kabupaten Sidoarjo,Perempuan,"Ibu, Ayah",6-12
+NOMOGJ,1994,Jawa Timur - Kabupaten Bojonegoro,Perempuan,Orangtua,lebih dari 24
+DBLRAW,1996,Jawa Timur - Kabupaten Nganjuk,Perempuan,Orangtua,lebih dari 24
+THWYBB,1994,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+DOJSUI,1993,Jawa Timur - Kota Surabaya,Laki,Orangtua,lebih dari 24
+IDHVCH,1994,Jawa Timur - Kabupaten Lamongan,Laki,Orangtua,lebih dari 24
+JHWDJG,1994,Jawa Timur - Kota Surabaya,Perempuan,Orangtua,1-2
+SOYJUX,1994,Jawa Timur - Kota Surabaya,Laki,Orangtua,lebih dari 24
+ANMQWL,1995,Jawa Timur - Kota Mojokerto,Perempuan,Orangtua,lebih dari 24
+YDXIYS,1993,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,12-24
+TUBEOV,1994,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+LZPSFJ,1994,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+OQBUJQ,1994,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,1-2
+HMRJSO,1994,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,3-5
+KHSAWS,1994,Jawa Timur - Kabupaten Trenggalek,Perempuan,Orangtua,lebih dari 24
+RMADZR,1995,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+VUONZZ,1995,Jawa Timur - Kabupaten Gresik,Laki,Orangtua,12-24
+GREVLU,1997,Jawa Timur - Madura,Laki,"Orangtua, keluarga",lebih dari 24
+WPKUMW,1995,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+GVKCAP,1995,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,0
+WJSJFE,1996,Jawa Timur - Kabupaten Mojokerto,Perempuan,Orangtua,6-12
+ZCGJWJ,1995,Jawa Timur - Kabupaten Lamongan,Perempuan,"Orangtua, adik",lebih dari 24
+ATUKKM,1994,Jawa Timur - Kota Surabaya,Perempuan,Orangtua,lebih dari 24
+SYNMVY,1995,Jawa Timur - Kabupaten Sidoarjo,Perempuan,"Ayah, ibu, kakak",3-5
+PNCPYI,1995,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,1-2
+EUTKUD,1995,Jawa Timur - Kota Surabaya,Perempuan,"Nenek, orangtua",3-5
+JCCPEU,1995,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,lebih dari 24
+BJAZVP,1993,Jawa Timur - Kabupaten Sidoarjo,Laki,Orangtua,lebih dari 24
+JDFSFU,1995,Jawa Timur - Kabupaten Nganjuk,Perempuan,Orangtua,lebih dari 24
+LNNZNU,1995,Jawa Timur - Kabupaten Nganjuk,Perempuan,Ibu bapak,lebih dari 24
+OGRUYH,1994,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,12-24
+OKPECE,1993,Jawa Timur - Kabupaten Sidoarjo,Laki,Orangtua,lebih dari 24
+UUQOCE,1993,Jawa Timur - Kabupaten Sidoarjo,Laki,Orangtua,3-5
+VITFXI,1994,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+VBDKUT,1994,Jawa Timur - Krian,,Keluarga,lebih dari 24
+JWEQVY,1994,Jawa Timur - Kabupaten Gresik,Perempuan,Keluarga,lebih dari 24
+LBCANU,1995,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,lebih dari 24
+ANXDJN,1993,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,lebih dari 24
+UZXSKO,1993,Jawa Timur - Kabupaten Lamongan,Perempuan,"Ibu, Bapak, Adik",lebih dari 24
+NTDPVJ,1994,Jawa Timur - Kabupaten Lamongan,Perempuan,"Ibu, adik",lebih dari 24
+GXTPPG,1993,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+SBMNHY,1994,Jawa Timur - Kabupaten Pasuruan,Perempuan,"Ayah, ibu, kakak",3-5
+YPAUCS,1994,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,12-24
+ZYQGXZ,1993,Jawa Timur - Kabupaten Sidoarjo,Perempuan,Orangtua,3-5
+MYCLSZ,1993,Jawa Timur - Kabupaten Jombang,Laki,Nenek,12-24
+TJXPQU,1994,Jawa Tengah - Kabupaten Semarang,Laki,Orangtua,
+PPUFZJ,1993,Jawa Tengah - Kabupaten Semarang,Perempuan,"Orangtua, kakak",12-24
+HNRLWV,1995,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,lebih dari 24
+QQLRTH,1994,Jambi - Kota Jambi,Perempuan,Orangtua,3-5
+WETMOD,1994,Jawa Tengah - Kabupaten Pati,Perempuan,Orangtua,12-24
+OCXGMC,1995,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,1-2
+GPBFUK,1993,Jawa Tengah - Kabupaten Semarang,Laki,Orangtua,1-2
+LZJEED,1994,Jawa Tengah - Kabupaten Semarang,Perempuan,Nenek,6-12
+QVZCJU,1991,Jawa Tengah - Kabupaten Semarang,Laki,Kedua orangtua,lebih dari 24
+JWICCR,1988,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,1-2
+EZMSGC,1987,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,3-5
+DFBDCN,1994,Jawa Tengah - Kabupaten Pati,Perempuan,Orangtua,lebih dari 24
+RJAPLO,1990,Jawa Tengah - Kabupaten Semarang,Laki,Orangtua,3-5
+BPKGYW,1992,Jawa Tengah - Kabupaten Semarang,Laki,Orangtua,3-5
+QZEZQY,1992,Kalimantan Barat - Kabupaten Ketapang,Laki,Orangtua,lebih dari 24
+QYCKKR,1993,Jawa Tengah - Purwodadi,Perempuan,"Orangtua, 1 orang kakak",12-24
+VBDLSZ,1994,Jawa Timur - Kota Surabaya,Perempuan,Ibu,6-12
+BJJOMF,1995,Jawa Tengah - Kabupaten Kudus,Perempuan,,3-5
+VOJPLJ,1997,Nusa Tenggara Timur - Kota Kupang,Perempuan,Orang tua,lebih dari 24
+QANFKJ,1995,Jawa Timur - Kota Surabaya,Perempuan,Orang tua,1-2
+XFWPQR,1995,Jawa Timur - Kabupaten Sidoarjo,Laki,ORANG TUA,6-12
+AMAQDL,1994,Sulawesi Tengah - Kota Palu,Perempuan,ORANG TUA,lebih dari 24
+DJEWYC,1995,Kalimantan Timur - Kota Samarinda,Laki,ORANG TUA,12-24
+SFAVED,1995,Jawa Timur - Kota Surabaya,Laki,ORANG TUA,3-5
+IZHXLH,1994,Jawa Timur - Kota Surabaya,Perempuan,KELUARGA,0
+EDSPAZ,1994,Jawa Timur - Kota Surabaya,Perempuan,ORANG TUA DAN SAUDARA,lebih dari 24
+QAGJKJ,1995,Jawa Timur - Kota Surabaya,Perempuan,KELUARGA,3-5
+IOXIDR,1995,Bali - Kota Denpasar,Perempuan,KELUARGA,3-5
+EXKZVS,1995,#NAME?,Perempuan,orang tua,
+CBFRUD,1995,Gorontalo - Kabupaten Gorontalo,Laki,ORANG TUA,3-5
+ZNWGMD,1994,Sulawesi Utara - Kota Manado,Laki,ORANG TUA,1-2
+JLCZCU,1996,Kalimantan Tengah - Kota Palangka Raya,Perempuan,ORANG TUA,3-5
+NNXUPD,1995,Jawa Timur - Kota Surabaya,Perempuan,ORANG TUA,6-12
+NYHWTC,1995,Jawa Timur - Kabupaten Bojonegoro,Perempuan,"ORANG TUA, KAKAK, ADIK",3-5
+WKRJWG,1995,Maluku - Kota Ambon,Perempuan,ORANG TUA,6-12
+YITBGA,1992,Maluku - Kota Ambon,Perempuan,ORANG TUA,3-5
+YWOODX,1995,"Jawa Timur - SURABAYA, SIDOARJO",Perempuan,ORANG TUA,lebih dari 24
+GULNFT,1994,Jawa Timur - Kabupaten Ponorogo,Perempuan,ORNAG TUA,3-5
+YTLLKJ,1995,Kalimantan Barat - Kabupaten Pontianak,Perempuan,ORANG TUA,12-24
+OUOWES,1994,Sumatera Selatan - Tanjung Sakti Pumi,Perempuan,Orang tua,lebih dari 24
+IXZCTZ,1995,Bengkulu - Kabupaten Mukomuko,Perempuan,ORANG TUA,lebih dari 24
+CKKFWL,1995,Bengkulu - Kabupaten Kepahiang,Perempuan,ORANG TUA,12-24
+HSZOJO,1994,Bengkulu - CURUP,Perempuan,ORANG TUA,12-24
+ZAETQN,1995,Sumatera Utara - Kabupaten Samosir,Perempuan,ORANG TUA,1-2
+UAFZTD,1995,Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,6-12
+LVWZUV,1995,Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,3-5
+TVNJYB,1994,Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,3-5
+WTWSYL,1993,Bengkulu - Kabupaten Bengkulu Utara,Perempuan,ORANG TUA,lebih dari 24
+TQHJYS,1995,Jambi - Kabupaten Kerinci,Perempuan,ORANG TUA,1-2
+LCFUQY,1995,Bengkulu - ARGAMAKMUR,Perempuan,ORANG TUA,
+EKPWKL,1995,Bengkulu - argamakmur,Perempuan,orang tua,1-2
+BRIRLW,1994,Bengkulu - Kota Bengkulu,Perempuan,orang tua,3-5
+NTCFAX,1995,Bengkulu - Kabupaten Bengkulu Utara,Perempuan,orang tua,lebih dari 24
+XMDFKU,1994,Bengkulu - argamakmur,Perempuan,orang tua,
+YMAKXI,1995,Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,3-5
+KGHIOI,1995,Bengkulu - KOTA CUWP,Perempuan,"IBU, NENEK",3-5
+HASWCM,1995,Bengkulu - Kabupaten Seluma,Perempuan,ORANG TUA,1-2
+XDOXHP,1959,Jawa Timur - Kabupaten Malang,Perempuan,orang tua,1-2
+VUSAUF,1995,Bengkulu - CURUP,Perempuan,KELUARGA,lebih dari 24
+IWLTET,1993,Bengkulu - Kota Bengkulu,Perempuan,orang tua,
+FJKASL,1995,Bengkulu - Kota Bengkulu,Perempuan,KEDUA ORTU,6-12
+CRYMBL,1995,Bengkulu - curup bengkulu,Perempuan,masih dengan orang tua,3-5
+YBMLQQ,,Sumatera Utara - Kota Medan,Laki,orang tua,lebih dari 24
+AOJUGS,1995,Bengkulu - Kabupaten Bengkulu Selatan,Perempuan,dengan orang tua,12-24
+IKXHDW,1993,Bengkulu - Kabupaten Seluma,Laki,ORANG TUA,lebih dari 24
+RTQTSZ,1994,Bengkulu - Kabupaten Bengkulu Selatan,Perempuan,orang tua,3-5
+HNCFNT,,Bengkulu - Kabupaten Kaur,Perempuan,ORANG TUA,3-5
+HVIBMZ,1995,Bengkulu - MANNA,Perempuan,ORANG TUA,3-5
+YQWDYM,1995,Sumatera Selatan - Kota Pagar Alam,Perempuan,ORANG TUA,lebih dari 24
+SVAEFZ,1994, Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,3-5
+WNZALX,1995,Sumatera Selatan - Kabupaten Empat Lawang,Perempuan,orang tua,lebih dari 24
+RLRBTK,1993,Bengkulu - Kota Bengkulu,Perempuan,kedua orang tua,3-5
+KQEZQG,1996,Sumatera Selatan - Kota Lubuklinggau|Lubuklinggau|-,Perempuan,orang tua,6-12
+ZYHYLN,1995,Bengkulu - Kabupaten Mukomuko,Perempuan,orang tua,
+BLLHMY,1983,Bengkulu - Kota Bengkulu,Perempuan,orang tua,1-2
+YUASKE,1995,Bengkulu - Kabupaten Seluma,Perempuan,ORANG TUA,lebih dari 24
+PHJTCP,1994,Bengkulu - Kota Bengkulu,Perempuan,ORNAG TUA,6-12
+XMVASW,1982,Bengkulu - Kota Bengkulu,Perempuan,ORANG TUA,3-5
+ITNKIA,1994,Bengkulu - Kabupaten Bengkulu Utara,Perempuan,ORANG TUA,1-2
+QVDQDU,1986,Jawa Tengah - Kota Salatiga,Perempuan,"Bapak, Ibu",lebih dari 24
+QYZKYF,1994,Jawa Tengah - Kota Semarang,Perempuan,Nenek,6-12
+MFVLMV,1992,Jawa Tengah - Kabupaten Jepara,Laki,Orangtua,3-5
+QDJRDF,1977,DKI Jakarta - Kota Jakarta,Perempuan,Orangtua,6-12
+VLLQXL,1994,Jawa Tengah - Kota Semarang,Perempuan,Orangtua,1-2
+EFXQKJ,1992,Jawa Tengah - Kabupaten Rembang,Laki,Orangtua,3-5
+SMAMNO,1993,Jawa Tengah - Kabupaten Klaten,Perempuan,Keluarga,lebih dari 24
+ONCYAC,1994,Jawa Tengah,Laki,Orangtua,3-5
+CZHPMT,1993,Jawa Tengah - Kota Semarang,Laki,Orangtua,12-24
+TKWWCB,1994,Jawa Tengah - Ungaran,Perempuan,Orangtua,lebih dari 24
+JNFNZI,1995,Jawa Tengah - Kota Semarang,Perempuan,Orangtua,1-2
+SQVLNM,1994,Jawa Tengah - Kabupaten Pati,Perempuan,Orangtua,12-24
+AYSQRK,1993,Jawa Tengah - Kabupaten Blora,Perempuan,Orangtua,12-24
+WMCUVW,1993,Jawa Tengah - Kota Semarang,Perempuan,Keluarga,lebih dari 24
+JTQSEF,1987,Jawa Tengah - Kota Semarang,Perempuan,Orangtua,lebih dari 24
+RWRBDF,1982,Jawa Tengah - Kota Semarang,Perempuan,"Orangtua, kakak",6-12
+HEECCO,1984,Jawa Tengah - Kabupaten Semarang,Perempuan,Ortu,lebih dari 24
+LNMICO,1989,Jawa Tengah - Kabupaten Semarang,Perempuan,Orang tua,6-12
+SDBODH,1989,Jawa Tengah - Kabupaten Purbalingga,Perempuan,Orangtua,3-5
+NANRNF,1990,Bali - Kabupaten Buleleng,Perempuan,Orangtua,1-2
+BPGGZA,1989,Jawa Timur - Kabupaten Jombang,Perempuan,Orangtua,0
+MHZJSX,1990,Jawa Timur - Kota Mojokerto,Perempuan,Orangtua,3-5
+OLJTWW,1991,Jawa Timur - Kabupaten Mojokerto,Perempuan,Orangtua,lebih dari 24
+XMERKP,1990,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,3-5
+BHUQBI,1988,Jawa Tengah - Kabupaten Brebes,Laki,Orangtua,lebih dari 24
+WAMPWA,1987,Jawa Tengah - Kabupaten Brebes,Laki,Orangtua,lebih dari 24
+SKAXVZ,1983,Jawa Tengah - Kabupaten Tegal,Laki,Orangtua,lebih dari 24
+ZKLCHY,1987,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,1-2
+SQLWOZ,1990,Jawa Tengah - Kabupaten Rembang,Perempuan,"Ibu, nenek, kakek, adik",lebih dari 24
+PMYSUL,1992,Nusa Tenggara Barat - Kota Praya,Perempuan,Orangtua,3-5
+WGVSFD,1990,Jawa Tengah - Kabupaten Purworejo,Perempuan,"Orangtua, adik",1-2
+CCBHLM,1992,Kalimantan Utara - Kota Tarakan,Perempuan,Orangtua,1-2
+FCJHTD,1989,Jawa Tengah - Kabupaten Pati,Laki,Orangtua,1-2
+NRHWML,1991,Jawa Tengah - Kabupaten Kudus,Perempuan,Orangtua,lebih dari 24
+ZSNRDB,1974,Jawa Tengah - Solo,Laki,Orangtua,3-5
+TUQDDQ,1989,Jawa Tengah - Kabupaten Demak,Perempuan,Orangtua,lebih dari 24
+NPBJEN,1990,Jawa Tengah - Kabupaten Pekalongan,Perempuan,Orangtua,6-12
+WVNYOO,1989,Jawa Tengah - Kabupaten Demak,Laki,Ayah dan Ibu,lebih dari 24
+VLTLGC,1983,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,1-2
+LICPWE,1989,Jawa Tengah - Kabupaten Grobogan,Laki,"Ayah, ibu, dan saudara kandung",12-24
+XXTISG,1974,Jawa Tengah,Perempuan,Orangtua,3-5
+CNZIFE,1979,Jawa Tengah - Kabupaten Semarang,Perempuan,Orangtua,lebih dari 24
+MIKHHF,1990,Jawa Tengah - Kabupaten Pekalongan,Perempuan,Keluarga,lebih dari 24
+EGKQEG,1989,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,6-12
+PMBVYE,1991,Jawa Barat - Kabupaten Cirebon,Perempuan,Keluarga,lebih dari 24
+NRANVH,1992,Jawa Timur - Kabupaten Nganjuk,Perempuan,Orangtua,lebih dari 24
+XZHXRO,1992,Jawa Tengah - Kabupaten Brebes,Perempuan,Orangtua,lebih dari 24
+JPHIZY,1987,Jawa Timur - Kabupaten Lumajang,Perempuan,Orangtua,3-5
+TMHSDU,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,12-24
+MEQXSG,1994,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+WTQKGU,1993,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+WVNKOI,1995,Jawa Timur - Kabupaten Lamongan,Perempuan,Keluarga,lebih dari 24
+EBLUCX,1992,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+IPLCQQ,1995,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+BMFRMG,1993,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,lebih dari 24
+CSVUXG,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,3-5
+HSOLGS,1995,"Jawa Timur - Merakurak, Tuban",Perempuan,Orangtua,12-24
+QLACPQ,1995,Jawa Timur - Kabupaten Tuban,Perempuan,"Nenek, Keluarga",6-12
+IRECHI,1992,Jawa Tengah - Kabupaten Rembang,Perempuan,,6-12
+XBNRKQ,1992,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,lebih dari 24
+CLSPGN,1993,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,6-12
+OWFMCI,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+VWFTPO,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,3-5
+JPITTU,1993,Jawa Timur - Kabupaten Lamongan,Perempuan,Nenek,lebih dari 24
+NAYYBB,1994,Jawa Timur - Kabupaten Tuban,Laki,Keluarga,lebih dari 24
+FJKZQL,1992,Kalimantan Timur - Kota Balikpapan,Perempuan,Keluarga,1-2
+WMPMWR,1990,di luar Indonesia - Malaysia,Laki,Orangtua,3-5
+FGTIKB,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+AXKIHD,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,1-2
+FWVOLG,1996,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,1-2
+HGZSBL,1995,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,1-2
+SYYMKI,1995,Jawa Barat - Kabupaten Karawang,Perempuan,Orangtua,lebih dari 24
+RANLIX,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,
+AARZIP,1992,Jawa Timur - Kabupaten Tuban,Perempuan,"Ibu, ayah",lebih dari 24
+JUNCDC,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,3-5
+YWNEUF,1990,Jawa Timur - Kabupaten Tuban,Laki,,
+YCPWKC,1993,Jawa Tengah - Kabupaten Rembang,Perempuan,Keluarga,lebih dari 24
+QPLHTP,1993,Jawa Timur - Kabupaten Tuban,Laki,"Ayah, ibu dan kakak",lebih dari 24
+GFYCEE,1991,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,1-2
+PKAKXT,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,6-12
+IPCNHA,1991,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,6-12
+EHCGFI,1992,Jawa Timur - Kabupaten Lamongan,Laki,Orangtua,12-24
+URUPEF,1990,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+KCOBAA,1991,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,6-12
+KKBXGP,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,
+FCUOCE,1993,Jawa Timur - Kabupaten Tuban,Perempuan,"Bapak, ibu, kakak",lebih dari 24
+OVLFQE,1992,Jawa Timur - Kabupaten Bojonegoro,Perempuan,"Ayah, ibu, kakak, adik",lebih dari 24
+JLSUIW,1992,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,6-12
+RGPWGL,1978,Jawa Timur - Kabupaten Tuban,Laki,Orangtua dan nenek,lebih dari 24
+IJEQBG,1992,Jawa Timur - Kabupaten Tuban,Laki,Orangtua,lebih dari 24
+SSEWOV,1993,Jawa Tengah - Kabupaten Rembang,Laki,Orangtua,6-12
+DKUBLO,1991,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,
+PNBJVH,1992,Jawa Timur - Kabupaten Bojonegoro,Perempuan,Orangtua,lebih dari 24
+NOFMXQ,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+GEMJTJ,1994,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+DTBIIE,1992,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,lebih dari 24
+FJLRSB,1992,Jawa Timur - Desa Karang Agung,Perempuan,Orangtua,6-12
+OKBHUK,1993,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,
+UBOPKU,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+ZIXHQV,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,6-12
+APSLBH,1991,Jawa Timur - Kabupaten Lamongan,Laki,Orangtua,6-12
+JTWNZZ,1992,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+CGEMWE,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+MYMLFP,1992,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+VDFXXH,1992,Jawa Timur - Kabupaten Gresik,Perempuan,Orangtua,lebih dari 24
+FRWAFD,1992,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,1-2
+BMUHPT,1991,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,1-2
+OBLMPG,1993,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+VHGHCS,1993,Jawa Timur - Kabupaten Lamongan,Perempuan,Orangtua,1-2
+ZFTLQA,1992,Jawa Tengah - Kabupaten Rembang,Perempuan,Orangtua,lebih dari 24
+KDYKSR,1986,Jawa Timur - Kabupaten Bojonegoro,Perempuan,Orangtua,lebih dari 24
+BJRKZJ,1992,Jawa Timur - Kabupaten Tuban,Perempuan,Orangtua,lebih dari 24
+EXAPWK,1992,Jawa Timur - Kabupaten Lamongan,Perempuan,Wiraswasta,3-5
